@@ -2,7 +2,6 @@
  One Day Build for a Workout Tracker
 
 ## Specs
-Below are the specs I wrote prior to the creation of this program.
 - Must be made in one day
 - Statically designed around GREYSKULL LP (2.5lbs+ each lift for upper body, 5lbs lower)
 - Case statements for each GREYSKULL movement
