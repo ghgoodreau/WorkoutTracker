@@ -20,7 +20,7 @@ Below are the specs I wrote prior to the creation of this program.
 ## Build time
 This ended up taking me 1.5 hrs to build. 
 
-## Next Build Idea
+## Next build idea
 The next one day build I plan on doing is a program to track progress via the .csv file I have written.
 - This program will read the .csv file and determine if I am on track by GREYSKULL LP standards
    - is my progress linear (2.5 pounds for upper body, 5 pounds for lower body)
