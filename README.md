@@ -13,7 +13,7 @@ Below are the specs I wrote prior to the creation of this program.
     - Chinups
     - Rows
 - Outputs maxes for the day in a .csv file for stat tracking
-- Will contain a driver program to take user inputs for lifts and weights.
+- Will contain a driver method to take user inputs for lifts and weights.
 - Main method will print out these values into a .csv file.
     - This must not overwrite the file. It will make the columns once and add to the file each time the program is ran.
     
