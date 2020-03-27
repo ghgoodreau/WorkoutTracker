@@ -1,0 +1,16 @@
+WORKOUT TRACKER APP
+3/27/2020
+One day build
+
+- Statically designed around GREYSKULL LP (2.5lbs+ each lift for upper body, 5lbs lower)
+- Case statements for each GREYSKULL movement
+    this includes
+      - OHP
+      - Bench
+      - Deadlift
+      - Rows
+      - Squats
+      - Chinups
+- outputs maxes for the day in a csv file for stat tracking
+- Will contain a driver program to take user inputs for lifts and weights.
+- Main method will print out these values into a CSV. (this will not overwrite the file. It will make the columns once and add to the file each time the program is ran.)
