@@ -16,6 +16,9 @@ Below are the specs I wrote prior to the creation of this program.
 - Will contain a driver program to take user inputs for lifts and weights.
 - Main method will print out these values into a .csv file.
     - This must not overwrite the file. It will make the columns once and add to the file each time the program is ran.
+    
+## GREYSKULL LP
+![GREYSKULL LP](https://external-preview.redd.it/YownoaZeVT078vy716blyunoE51yJslM2z6oXO5ZiKA.png?auto=webp&s=6ad6210772814c91eb00cf476cb158fc67f2cedf)
 
 ## Build time
 This ended up taking me 1.5 hrs to build. 
